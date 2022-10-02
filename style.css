@@ -53,6 +53,10 @@
   height: 30vh;
 }
 
+.title{
+  background-color: seagreen;
+}
+
 #fire{
   animation: 1.5s linear 0s infinite running fire; 
 }
