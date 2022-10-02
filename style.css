@@ -53,6 +53,13 @@
   height: 30vh;
 }
 
+.title{
+  animation: 3s linear 0s infinite running Atwood; 
+}
+
+@keyframes Atwood{
+  05%{transform: scale(0.5, 0.5);}
+
 .title-2{
   color: yellow;
 }
