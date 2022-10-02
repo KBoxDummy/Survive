@@ -54,7 +54,7 @@
 }
 
 #fire{
-  animation: .25s linear 0s infinite running fire; 
+  animation: 1.5s linear 0s infinite running fire; 
 }
 
 @keyframes fire{
