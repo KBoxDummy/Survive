@@ -60,6 +60,7 @@
 
 @keyframes fire{
   05%{transform: scale(0.5, 0.5);}
+}
 
 .title-2{
   color: yellow;
