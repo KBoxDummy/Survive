@@ -42,13 +42,13 @@
   .header{
     text-align: center;
     height: 20vh;
-    background-color: seagreen;
+    background-color: red;
     color: yellow;
   }
   
   .nav{
     text-align: center;
-    background-color: seagreen;
+    background-color: red;
   }
   
   /*.dropdown-content a:hover {background-color: #f1f1f1}*/
